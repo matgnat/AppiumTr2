@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Automation Test">
+    <test name="Some smoke test">
+        <classes>
+            <!--<class name="runTest.PreAnnotations"/>-->
+            <class name="runTest.Annotations"/>
+        </classes>
+    </test>
+</suite>
